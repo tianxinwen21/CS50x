@@ -1,2 +1,2 @@
-# CS50
-My CS50's Introduction to Computer Science code.
+# CS50x
+My CS50x's Introduction to Computer Science code.
